@@ -1,1 +1,4 @@
 Link to dataset : https://dphi-live.s3.eu-west-1.amazonaws.com/dataset/weather.zip
+
+Data description : 
+The dataset features 5 different classes of weather. The dataset contains about 1500 labelled images including the validation images. Each image has only one weather category and are saved in separate folders of the labelled classes
